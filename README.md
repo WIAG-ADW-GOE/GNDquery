@@ -8,7 +8,7 @@ Abfragedaten.
 [Projektseite zur Rechercheoberfläche]( https://lobid.org/gnd) 
 und [Eingabemaske](http://lobid.org/gnd/search)
 
-[Beschreibung] (http://lobid.org/gnd/api)
+[Beschreibung](http://lobid.org/gnd/api)
 
 API: http://lobid.org/gnd/search
 
